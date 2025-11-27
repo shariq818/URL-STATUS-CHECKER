@@ -12,7 +12,8 @@ Perfect for learning automation, networking basics, and building your GitHub por
 
 ### *How to Use*
 1. Place your .txt file with URLs in the same folder as the script.
-2. Run the script:3. Enter your file name when asked.
+2. Run the script.
+3. Enter your file name when asked.
 4. The script displays each URL as:
 - *Online (200 OK)*
 - *Offline*
